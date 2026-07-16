@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Stylenest20811</string>
+    <string name="stylenest">StyleNest</string>
+    <string name="tagline">Your Style, Our Nest</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Full Name</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="product_description">This is a detailed description of the fashion item. It is made with high-quality materials and designed to provide both comfort and style. Perfect for various occasions.</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="view_cart">View Cart</string>
+    <string name="product_image_desc">Product Image</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="total">Total:</string>
+    <string name="checkout">Checkout</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="order_placed">Order placed successfully!</string>
 </resources>
